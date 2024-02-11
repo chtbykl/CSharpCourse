@@ -39,7 +39,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqProject", "Linq\LinqPro
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameProject", "GameProject\GameProject.csproj", "{FC77D6DE-8EA3-427F-AE4E-ED4E956F0308}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBase", "DataBase\DataBase.csproj", "{DB5174FC-4E4F-4309-8446-D5066B343E0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataBase", "DataBase\DataBase.csproj", "{DB5174FC-4E4F-4309-8446-D5066B343E0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Attributes", "Attributes\Attributes.csproj", "{B99B96E3-1BF3-439C-A4BA-7E976611996E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{DB5174FC-4E4F-4309-8446-D5066B343E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB5174FC-4E4F-4309-8446-D5066B343E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB5174FC-4E4F-4309-8446-D5066B343E0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B99B96E3-1BF3-439C-A4BA-7E976611996E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B99B96E3-1BF3-439C-A4BA-7E976611996E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B99B96E3-1BF3-439C-A4BA-7E976611996E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B99B96E3-1BF3-439C-A4BA-7E976611996E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
